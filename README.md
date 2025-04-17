@@ -33,6 +33,6 @@
 - There are strange aliens patrolling the scene and if they see you they will start shooting at you. If you pass by them but they have not seen you (pretending that they have heard your steps), they turn looking for you.
 - The game is fully sound-tracked with things like background music, walking, shooting, damage, jump, fall, etc.
 - The game has a game over screen and when you die you can restart the level.
-
+- Scattered around the site are 'life' and 'ammo' items. When enemies die, they leave some on the ground as well.
 ### Video Demonstration
 - [Link to video](https://drive.google.com/file/d/1pR5kit-EgNvJOKkbuoCdI26jy_J2ez9W/view?usp=sharing)
